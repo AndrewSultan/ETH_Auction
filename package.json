@@ -1,0 +1,23 @@
+{
+  "name": "auction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^3.3.0",
+    "mobx": "^5.15.0",
+    "mobx-react": "^6.1.4",
+    "openzeppelin-solidity": "2.4.0",
+    "truffle-contract": "^4.0.31"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "openzeppelin-test-helpers": "^0.5.1"
+  }
+}
